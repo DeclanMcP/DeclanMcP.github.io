@@ -809,7 +809,7 @@ strong {
 }
 .cid-tgzsba4rsv .nav-dropdown .link {
   padding: 0 !important;
-  margin: 0.667em 1.5em !important;
+  margin: 0.667em 0.5em !important;
   transition: all 0.3s;
 }
 @media (min-width: 992px) {
@@ -856,7 +856,7 @@ strong {
 }
 .cid-tgzsba4rsv .dropdown-menu,
 .cid-tgzsba4rsv .navbar.opened {
-  background: #ffffff !important;
+  background: #2a2a2a !important;
 }
 .cid-tgzsba4rsv .nav-item:focus,
 .cid-tgzsba4rsv .nav-link:focus {
@@ -1067,7 +1067,7 @@ strong {
   right: 5px;
   width: 40px;
   height: 3px;
-  background-color: #00524f;
+  background-color: #f8f1ec;
 }
 .cid-tgzsba4rsv button.navbar-toggler .hamburger span:nth-child(1) {
   top: 10px;
@@ -2571,4 +2571,12 @@ strong {
 }
 .cid-tgzzEZagk3 .mbr-text {
   color: #f8f1ec;
+}
+
+.about-background {
+  background-image: url("../site_files/background-2.png") !important; 
+}
+
+.store-button {
+  width:120px;
 }
